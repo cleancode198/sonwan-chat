@@ -1,6 +1,6 @@
 # SonWan UI for Real time chat Supabase
 
-The UI component of this app is using [SonWan UI](https://github.com/sonnylazuardi/sonwan-ui)
+The UI component of this app is using [SonWan UI](https://github.com/cleancode198/sonwan-ui)
 
 This is a full-stack Slack clone example using:
 
